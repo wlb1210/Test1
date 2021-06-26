@@ -1,0 +1,29 @@
+7.4.1.1选10,8000周期
+********** Iteration 7999 ************
+cur_it_r: 53795.10000000001
+cur_ep_cumultime: 66343478.0
+cur_ep_throughput: 26897550
+cur_ep_everage_cumultime: 129577.10546875
+cur_ep_everage_throughput: 52534.27734375
+cumul_time: 126434.0
+throughput: 57178
+
+7.4.1.2选10,12000周期
+********** Iteration 11999 ************
+cur_it_r: 54992.24600000002
+cur_ep_cumultime: 65645380.0
+cur_ep_throughput: 27496123
+cur_ep_everage_cumultime: 128213.6328125
+cur_ep_everage_throughput: 53703.365234375
+cumul_time: 118573.0
+throughput: 51773
+
+7.4.1.3选4,5000周期
+********** Iteration 4999 ************
+cur_it_r: 29159.899999999994
+cur_ep_cumultime: 116322902.0
+cur_ep_throughput: 14579950
+cur_ep_everage_cumultime: 227193.16796875
+cur_ep_everage_throughput: 28476.46484375
+cumul_time: 226947.0
+throughput: 28008

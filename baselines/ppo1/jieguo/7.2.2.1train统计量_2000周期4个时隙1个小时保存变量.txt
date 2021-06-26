@@ -1,0 +1,10 @@
+train:
+cur_it_r: -80.32647899999996
+cur_ep_cumultime: 26775493.0
+cur_ep_throughput: 1530701
+cur_ep_everage_cumultime: 52295.884765625
+cur_ep_everage_throughput: 2989.650390625
+
+
+test:
+cumul_time: 53239.0

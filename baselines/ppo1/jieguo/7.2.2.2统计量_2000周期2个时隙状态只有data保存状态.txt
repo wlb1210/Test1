@@ -1,0 +1,38 @@
+reward是吞吐量
+********** Iteration 1999 ************
+cur_it_r: 4076.4700000000366
+cur_ep_cumultime: 26806700.0
+cur_ep_throughput: 2038235
+cur_ep_everage_cumultime: 52356.8359375
+cur_ep_everage_throughput: 3980.927734375
+cumul_time: 52733.0
+
+********** Iteration 1999 ************
+cur_it_r: 4077.076000000037
+cur_ep_cumultime: 26806547.0
+cur_ep_throughput: 2038538
+cur_ep_everage_cumultime: 52356.537109375
+cur_ep_everage_throughput: 3981.51953125
+cumul_time: 52733.0
+throughput: 4102
+
+********** Iteration 1999 ************
+cur_it_r: 4075.656000000037
+cur_ep_cumultime: 26806989.0
+cur_ep_throughput: 2037828
+cur_ep_everage_cumultime: 52357.400390625
+cur_ep_everage_throughput: 3980.1328125
+cumul_time: 52733.0
+throughput: 4102
+
+reward是时延
+********** Iteration 1999 ************
+cur_it_r: -80.29629900000012
+cur_ep_cumultime: 26765433.0
+cur_ep_throughput: 2038617
+cur_ep_everage_cumultime: 52276.236328125
+cur_ep_everage_throughput: 3981.673828125
+cumul_time: 52718.0
+throughput: 3889
+
+model_path: C:\Users\ADMINI~1\AppData\Local\Temp\openai-2020-07-02-18-56-55-164755\beamhopping_policy

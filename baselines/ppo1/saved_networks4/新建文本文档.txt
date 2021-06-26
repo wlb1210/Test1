@@ -1,0 +1,80 @@
+action: [13 18 19 20 23 25 26 28 31 35]
+throughput: 16244
+action_GA [29, 18, 19, 20, 23, 25, 26, 28, 31, 35]
+throughput_GA 17174
+action: [ 0  4  8 10 15 21 24 30 32 34]
+throughput: 29622
+action_GA [0, 36, 8, 2, 15, 21, 24, 30, 32, 34]
+throughput_GA 31262
+action: [ 3 12 16 18 19 22 25 27 28 31]
+throughput: 40312
+action_GA [3, 12, 16, 18, 17, 22, 25, 27, 28, 31]
+throughput_GA 42527
+action: [ 1  7 17 20 22 23 24 29 33 35]
+throughput: 42516
+action_GA [1, 7, 19, 20, 22, 23, 24, 29, 33, 35]
+throughput_GA 45062
+action: [ 0  8  9 10 14 15 21 30 32 34]
+throughput: 52735
+action_GA [0, 8, 9, 10, 14, 15, 21, 30, 32, 34]
+throughput_GA 52735
+action: [11 13 18 20 23 25 26 28 31 35]
+throughput: 53717
+action_GA [11, 5, 18, 20, 23, 25, 26, 28, 31, 35]
+throughput_GA 55741
+action: [ 4  8 10 15 19 21 24 30 32 36]
+throughput: 41468
+action_GA [4, 12, 10, 15, 19, 21, 24, 30, 32, 36]
+throughput_GA 44353
+action: [ 3  6 11 12 16 18 22 25 27 31]
+throughput: 53662
+action_GA [3, 6, 9, 12, 16, 18, 22, 25, 27, 31]
+throughput_GA 55729
+action: [ 1  2  7 17 20 22 23 29 33 35]
+throughput: 61353
+action_GA [1, 2, 7, 17, 20, 30, 23, 29, 33, 35]
+throughput_GA 63253
+action: [ 8  9 10 15 21 22 29 30 32 34]
+throughput: 46125
+action_GA [8, 9, 11, 15, 21, 22, 29, 30, 32, 34]
+throughput_GA 49263
+action: [ 5 12 13 18 20 23 25 26 28 31]
+throughput: 57125
+action_GA [5, 12, 13, 18, 20, 23, 25, 26, 28, 31]
+throughput_GA 57125
+action: [ 4  8 10 15 19 21 24 30 32 36]
+throughput: 48972
+action_GA [4, 8, 10, 14, 19, 21, 24, 30, 32, 36]
+throughput_GA 51269
+action: [ 3  6 12 16 18 19 22 25 27 31]
+throughput: 48558
+action_GA [3, 6, 12, 16, 18, 23, 22, 29, 27, 31]
+throughput_GA 52045
+action: [ 1  2  7 17 20 22 23 29 33 35]
+throughput: 52214
+action_GA [1, 2, 7, 17, 20, 22, 23, 34, 33, 35]
+throughput_GA 57259
+action: [ 0  8  9 21 22 24 29 30 34 35]
+throughput: 45190
+action_GA [0, 8, 9, 21, 22, 24, 29, 30, 32, 35]
+throughput_GA 48726
+action: [ 5 12 13 18 20 23 25 26 28 31]
+throughput: 56524
+action_GA [5, 12, 13, 18, 20, 23, 25, 26, 28, 15]
+throughput_GA 63055
+action: [ 8 10 14 15 19 21 24 30 32 36]
+throughput: 44007
+action_GA [8, 10, 14, 11, 19, 21, 24, 30, 32, 36]
+throughput_GA 52914
+action: [ 3  6 12 16 18 19 22 25 27 31]
+throughput: 54622
+action_GA [3, 6, 12, 16, 16, 17, 22, 25, 27, 31]
+throughput_GA 57162
+action: [ 1  7 17 20 22 23 24 29 33 35]
+throughput: 50270
+action_GA [1, 7, 28, 20, 22, 23, 24, 29, 33, 35]
+throughput_GA 54333
+action: [ 8  9 10 15 21 22 29 30 32 34]
+throughput: 54029
+action_GA [8, 9, 26, 15, 21, 22, 29, 30, 32, 34]
+throughput_GA 57855

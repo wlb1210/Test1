@@ -1,0 +1,9 @@
+5000ÖÜÆÚ
+********** Iteration 4999 ************
+cur_it_r: 47554.546000000024
+cur_ep_cumultime: 57211034.0
+cur_ep_throughput: 23777273
+cur_ep_everage_cumultime: 111740.30078125
+cur_ep_everage_throughput: 46439.986328125
+cumul_time: 110560.0
+throughput: 50119

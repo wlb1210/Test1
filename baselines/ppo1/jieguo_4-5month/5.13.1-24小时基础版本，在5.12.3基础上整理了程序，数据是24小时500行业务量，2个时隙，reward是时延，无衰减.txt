@@ -1,0 +1,7 @@
+5.13.1版本
+24小时500行数据，2个时隙，reward是时延，无衰减
+cur_it_r: -80.59052999999993
+cur_ep_cumultime: 26863510.0
+cur_ep_throughput: 1286511
+cur_ep_everage_cumultime: 52467.79296875
+cur_ep_everage_throughput: 2512.716796875
